@@ -32,7 +32,7 @@
     "@nestjs/cli": "^10.0.0",
     "@nestjs/schematics": "^10.0.0",
     "@nestjs/testing": "^10.0.0",
-    "@so1ve/eslint-config": "^0.120.3",
+    "@so1ve/eslint-config": "^0.123.0",
     "@so1ve/prettier-config": "^0.120.3",
     "@types/express": "^4.17.17",
     "@types/jest": "^29.5.2",
